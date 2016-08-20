@@ -8,9 +8,11 @@ permalink: /about/
 
 Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+I am Ares Ceng.This is my first time to learn markdown language and use it the build up a website. I felt really really really excited!
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Bertrand de Beauvoir had said that weman was not born to be weman but shaped to be. I believe the power of writing. It converts into a recoder and have a shaper sense to ordinary life. Make the boring life more beautiful.
+
+You are visit this website for more information[Google](http:/google.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
